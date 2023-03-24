@@ -20,6 +20,7 @@ module.exports = {
         'Yellow': '#FFECA7',
         'whiteCostume': '#F5F6F4',
         'BlackCostume': '#282725',
+        'Sand': '#F19038',
       },
     },
   },
