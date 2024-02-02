@@ -1,3 +1,4 @@
+
 import Form from "./Form";
 export default function Section() {
   return (
@@ -5,7 +6,7 @@ export default function Section() {
       <div className="background bg-Sand w-full h-full">
         <div className="bg-darkBlue w-full h-full z-10 rounded-t-[45px] py-8 flex justify-center items-center flex-col">
           <div className="container py-8 flex justify-center items-center flex-col">
-            <Form />
+            <Form  />
             <div className="grid grid-cols-2 justify-center items-center px-8 gap-4 mt-8 md:grid-cols-4 md:grid-flow-row lg:grid-cols-6">
               <div className="bg-whiteCostume rounded-2xl w-fit px-10 py-5">
                 <h1 className="text-center font-medium">Imsak</h1>
